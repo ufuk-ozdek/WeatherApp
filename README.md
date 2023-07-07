@@ -10,4 +10,4 @@ The API returns JSON responses that contain the weather data for the specified l
 
 Navigation Diagram:
 
-![navigation_diagram.pdf](https://github.com/ufuk-ozdek/WeatherApp/files/11984270/navigation_diagram.pdf)
+<img width="822" alt="Ekran Resmi 2023-07-07 20 15 23" src="https://github.com/ufuk-ozdek/WeatherApp/assets/70910355/802c6cdf-ccb7-4336-bec5-7a7b3cf45c4e">
