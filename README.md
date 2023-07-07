@@ -9,4 +9,5 @@ The API returns JSON responses that contain the weather data for the specified l
 
 
 Navigation Diagram:
-[navigation_diagram.pdf](https://github.com/ufuk-ozdek/WeatherApp/files/11984270/navigation_diagram.pdf)
+
+![navigation_diagram.pdf](https://github.com/ufuk-ozdek/WeatherApp/files/11984270/navigation_diagram.pdf)
