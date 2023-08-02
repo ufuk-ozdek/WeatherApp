@@ -1,7 +1,8 @@
 # WeatherApp
 
-It is a Weather app. 
+# The app is the course project for CS310 Mobile Application Development (2022-2023 Spring)
 
+App 
 Backend of the project consists of RESTful API that provides weather data based on either location’s latitude and longitude or its city name. 
 The API is implemented using the Spring Boot framework in Java, and it retrieves weather data from a third-party API service (OpenWeatherMap) and stores the data in database. 
 The API supports two endpoints: ‘/weather’ for retrieving weather data by latitude and longitude and ‘/weather/city’ for retrieving weather data by city name.
