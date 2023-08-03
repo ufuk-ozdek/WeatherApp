@@ -5,6 +5,7 @@ WeatherApp is a simple, user-friendly application that provides real-time weathe
 Users can find weather informations in two different way 
 
 1-) By entering Location Name
+
 2-) By entering coordinates
 
 Navigation Diagram:
