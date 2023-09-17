@@ -11,7 +11,8 @@ Users can find weather informations in two different way
 
 ## How to Use:
 
-![How_to_use](https://github.com/ufuk-ozdek/WeatherApp/assets/70910355/7d9ad9bd-2c9e-4375-967f-8deb9d5da688)
+
+![ezgif com-resize](https://github.com/ufuk-ozdek/WeatherApp/assets/70910355/8ebf194d-692f-4a61-a8e3-69cd7b979be0)
 
 
 
