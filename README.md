@@ -8,12 +8,6 @@ Users can find weather informations in two different way
 
 2-) By entering coordinates
 
-## Navigation Diagram:
-
-
-<img width="822" alt="Ekran Resmi 2023-07-07 20 15 23" src="https://github.com/ufuk-ozdek/WeatherApp/assets/70910355/802c6cdf-ccb7-4336-bec5-7a7b3cf45c4e">
-
-
 
 ## How to Use:
 [![Overview.webm]](https://github.com/ufuk-ozdek/WeatherApp/assets/70910355/1679e63a-8059-4b3c-bc98-1764493ae878)
