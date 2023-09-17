@@ -14,7 +14,6 @@ Users can find weather informations in two different way
 
 
 
-
 Project is made with Maven. Backend of the project consists of RESTful API that provides weather data based on either location’s latitude and longitude or its city name. 
 
 The API is implemented using the Spring Boot framework in Java, and it retrieves weather data from a third-party API service (OpenWeatherMap) and stores the data in database. 
