@@ -10,7 +10,8 @@ Users can find weather informations in two different way
 
 
 ## How to Use:
-[![Overview.webm]](https://github.com/ufuk-ozdek/WeatherApp/assets/70910355/1679e63a-8059-4b3c-bc98-1764493ae878)
+
+![How_to_use](https://github.com/ufuk-ozdek/WeatherApp/assets/70910355/7d9ad9bd-2c9e-4375-967f-8deb9d5da688)
 
 
 
